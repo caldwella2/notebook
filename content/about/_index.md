@@ -1,10 +1,10 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
+description: Hey, I'm Lex Caldwell
 images: ["/images/sample.jpg"]
 ---
 
 
-This is my about page. :wave:
+This is my about research. :wave:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+I want to explore and navigate the vulnerability of databases. I am basing this research off a branch of cyber security and I will be specifically looking at SQL Injection attacks. 
